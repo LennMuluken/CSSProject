@@ -1,5 +1,5 @@
 This is a github project which investigates bias in reporting on Israels war on gaza in three english speaking newspapers: The New York Times, BBC, and the Guardian.
-It analyzes a total of 1614 headlines. 
+It analyzes a total of 1624 headlines. 
 
 
 
