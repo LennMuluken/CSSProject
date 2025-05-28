@@ -1,4 +1,9 @@
+This is a github project which investigates bias in reporting on Israels war on gaza in three english speaking newspapers: The New York Times, BBC, and the Guardian.
+It analyzes a total of 1614 headlines. 
 
+
+
+MediaAnalysis.ipnyb is the notebook that contains code on how we filtered the dataset, ran GPT-4 prompts and created the figures that we implemented in our paper.
 
 
 sufferingcomplete_df is our final dataset which contains NYT, BBC and Guardian headlines that entail keywords related to suffering in the context of Israel-Palestine since October 7 2023. It has additional columns that contain output from GPT-4 on who the perpetrator of suffering is, who the described victim is, and whether the headline is written in active or passive language
