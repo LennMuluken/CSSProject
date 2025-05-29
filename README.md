@@ -10,3 +10,7 @@ sufferingcomplete_df is our final dataset which contains NYT, BBC and Guardian h
 
 
 merged_df contains the dataset of NYT, Guardian and BBC headlines relating to Israel-Palestine. It has not yet been filtered for keywords related to suffering (injury, death)
+
+
+The Appendices doc contains two elements:Appendix A and Appendix B
+Appendix A contains the wordbank that the dataset of headlines was filtered for, Appendix B contains the prompts for GPT-4 to determine who is suffering, who is the perpetrator and whether the headline is written in active or passive language.
