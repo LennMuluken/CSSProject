@@ -14,3 +14,5 @@ merged_df contains the dataset of NYT, Guardian and BBC headlines relating to Is
 
 The Appendices doc contains two elements:Appendix A and Appendix B. 
 Appendix A contains the wordbank that the dataset of headlines was filtered for, Appendix B contains the prompts for GPT-4 to determine who is suffering, who is the perpetrator and whether the headline is written in active or passive language.
+
+The reliability excel sheets entail the manually annotated headlines. One excel sheet contains the manual annotations on whose suffering is described and the other contains manual annotations of perpetrator and voice.
